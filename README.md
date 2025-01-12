@@ -1,7 +1,7 @@
 # Drivers and Driving Licenses Management 
 
 ## Description
-**Drivers and Driving Licenses Management** is a desktop application developed in C# using WinForms and ADO.NET, following a three-tier architecture. The application aims to provide a platform for managing the services of the department of drivers and vehicle licenses. It allows users to perform various operations such as adding, updating, deleting, and searching for data related to drivers and licenses.
+**Drivers and Driving Licenses Management** is a desktop application developed in C# using WinForms and ADO.NET, following a three-tier architecture (MVC). The application aims to provide a platform for managing the services of the department of drivers and vehicle licenses. It allows users to perform various operations such as adding, updating, deleting, and searching for data related to drivers and licenses.
 
 ## Features
 - **Driver Management**: Add, modify, delete, and search for information about drivers.
